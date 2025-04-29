@@ -1,2 +1,3 @@
 # bookbot
-Boot.dev book analysis script
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
